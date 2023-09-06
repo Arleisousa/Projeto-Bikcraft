@@ -19,7 +19,7 @@
     font: 600 1.125rem/1.35 "Poppins", sans-serif;
 }
 
-botao:hover {
+.botao:hover {
     background: linear-gradient(#ffb60d, #e59317);
 }
 
@@ -42,7 +42,7 @@ botao:hover {
     display: block;
     width: 100%;
     height: 4px;
-    background-color: currentColor;
+    background-color: currentColor; /*para pegar a cor do elemento pai*/
 }
 
 .link:hover {

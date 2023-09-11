@@ -5,7 +5,9 @@
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
-@import "./home/seguro.css";
+@import "./seguros/seguro.css";
+@import "./seguros/perguntas.css";
+@import "./seguros/vantagens.css";
 @import "./utilidades/componentes.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";

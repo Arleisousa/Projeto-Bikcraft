@@ -13,6 +13,8 @@
 @import "./utilidades/cores.css";
 @import "./bicicletas/bicicletas-listas.css";
 @import "./bicicletas/bicicletas.css";
+@import "./bicicletas/bicicleta.css";
+@import "./bicicletas/seguro.css";
 @import "./termos/termos.css";
 
 
